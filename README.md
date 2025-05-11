@@ -34,7 +34,7 @@ After logging in, you will be redirected to the Dashboard Home page. On the top 
   3. Immunization record (eIR): A detailed history of your vaccination.
   4. Appointment: A page to check all your upcoming appointments.
 
-## Admin Dashboard
+## Vaccine Management Dashboard
 Very similar to User Dashboard. After logging in, you will be redirected to the Dashboard Home page. On the top is the menu bar for you to access the website, while on the left there is a side navigation bar to redirect to different pages for admin functionalities.
   1. Dashboard Home: A first page that greets you after logging in.
   2. My profile: A whole section to access your personal information and changing them, including password.
