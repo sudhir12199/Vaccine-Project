@@ -5,10 +5,7 @@
 - Register/Login to personal account with vaccination records and personal information 
 - Book appointments with medical professionals 
 - Vaccination suggestions based on your country, age, and travel history. 
-
-## Deployed Application 
-https://pure-savannah-70273.herokuapp.com/
-
+ 
 Pre-created Accounts: 
 * General User: both username and password are *user*. 
 * Health Professional (Admin):  both username and password are *admin*. 
